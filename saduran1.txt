@@ -1,0 +1,16 @@
+Nim  : 1811500092
+Nama : Depi Susanti
+Kelompok : TI6J
+
+Hasil saya menyadur
+1) setiap mahasiswa disuruh membuat akun github.com
+2) setiap absen harus menggunakan github
+3) Ada tugas untuk menyadur setiap pertemuan dan di isi di github 
+4) untuk tugas individu buat uts
+5) membuat kelompok presentrasi sebnyak 3 orang mahasiswa perkelompok
+6) setiap pertemuan mahasiswa harus mendengar,memahami,dan menyimpulkan apa yang dibahas setiap pertemuan
+7) file kesimpulan cukup file.txt.file pendukung lainnya
+8) harus menonton vidio diyoutobe agar mengerti pembahasan dosen
+9) Analisa perancangan Rekayasa Perangkat Lunak
+Aplikasi dan sistem informasi
+ 
