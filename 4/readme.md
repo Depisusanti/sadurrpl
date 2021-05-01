@@ -2,7 +2,7 @@ Nama : Depi susanti
 Nim : 1811500092
 Kelompok : TI6J
 
-Hasil saya menyadur di perteuan 4
+Hasil saya menyadur di pertemuan 4
 1. Salam Budi Luhur
 2. membahas tentang bagaimana proses Usecase Diagram dan Deskripsi Usecase
 3. mengingatkan untuk slogan Cerdas Berjiwa Luhur
