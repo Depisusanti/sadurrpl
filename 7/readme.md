@@ -1,3 +1,3 @@
-Nim : 1811500092
-Nama : Depi Susanti
-Kelompok : TI6J
+Nim : 1811500092<br>
+Nama : Depi Susanti<br>
+Kelompok : TI6J<br>
